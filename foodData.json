@@ -1,7 +1,6 @@
 {
 	"Shrimp & Snap Pea Stir-Fry":{
 		"title": "Shrimp & Snap Pea Stir-Fry",
-		"likes":[],
 		"ingrediants":[
 		"shrimp",
 		"snap-pea",
@@ -12,7 +11,6 @@
 	},
 	"Pesto Tortellini Salad":{
 		"title":"Pesto Tortellini Salad",
-		"likes":[],
 		"ingrediants":[
 		"pasta",
 		"pesto",
@@ -23,7 +21,6 @@
 	},
 	"Tofu Coconut Curry":{
 		"title":"Tofu Coconut Curry",
-		"likes":[],
 		"ingrediants":[
 		"tofu",
 		"coconut milk",
@@ -35,7 +32,6 @@
 	},
 	"Lime Tilapia":{
 		"title":"Lime Tilapia",
-		"likes":[], 
 		"ingrediants":[
 		"fish",
 		"rice",
